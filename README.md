@@ -251,6 +251,7 @@ Table of Contents
   * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
   * [letsmonitor.org](https://letsmonitor.org/) — TLS certificate expiration and connectivity monitoring with email and SMS alerts.
+  * [opsgenie.com](https://www.opsgenie.com/) — Powerful alerting and on-call management for operating always-on services. Free up to 5 users.
 
 ## Crash and Exception Handling
 
@@ -404,7 +405,6 @@ Table of Contents
 ## DBaaS
 
    * [ibm.com](https://www.ibm.com/cloud/cloudant) — Hosted database from IBM, 1 GB free
-   * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [redsmin.com](https://redsmin.com/) — Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * [graphstory.com](https://graphstory.com/) — GraphStory offers Neo4j (a Graph Database) as a service
@@ -442,6 +442,7 @@ Table of Contents
    * [trello.com](https://trello.com/) — Board based project management. Free
    * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
    * [waffle.io](https://waffle.io/) — Board based project management solution from your existing GitHub Issues, free for Open Source
+   * [LeanBoard](https://www.leanboard.io) - Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
    * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
    * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 10 users)
@@ -466,6 +467,7 @@ Table of Contents
    * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - Free one-year Office 365 E3 subscription for development/testing.
+   * [senseitool.com](https://www.senseitool.com/) - An agile retrospective tool - Free.
 
 
 
@@ -628,6 +630,7 @@ Table of Contents
   * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
+  * [Ipgeolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 50k requests per month limit.
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
